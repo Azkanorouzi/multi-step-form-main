@@ -20,4 +20,4 @@ package.json
 readme-template.md
 
 # Avoid node modules and dist folder
-node_modules/
+node_modules
