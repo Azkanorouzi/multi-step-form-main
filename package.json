@@ -1,0 +1,22 @@
+{
+  "name": "multi-step-form-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Multi-step form coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azkanorouzi/multi-step-form-main.git"
+  },
+  "author": "azka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azkanorouzi/multi-step-form-main/issues"
+  },
+  "homepage": "https://github.com/Azkanorouzi/multi-step-form-main#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
